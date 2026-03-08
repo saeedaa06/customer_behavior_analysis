@@ -88,11 +88,11 @@ Several preprocessing steps were performed:
 - Renamed purchase_amount_(usd) to purchase_amount
 
 ### 3. Feature Engineering
-###### Age Group Segmentation
+##### Age Group Segmentation
 
 Customers were grouped into age segments using quartiles.
 
-###### Purchase Frequency Conversion
+##### Purchase Frequency Conversion
 
 Purchase frequency categories were converted into numeric days for easier analysis.
 
