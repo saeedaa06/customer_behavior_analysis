@@ -90,11 +90,11 @@ Several preprocessing steps were performed:
 ### 3. Feature Engineering
 ##### Age Group Segmentation
 
-Customers were grouped into age segments using quartiles.
+-Customers were grouped into age segments using quartiles.
 
 ##### Purchase Frequency Conversion
 
-Purchase frequency categories were converted into numeric days for easier analysis.
+-Purchase frequency categories were converted into numeric days for easier analysis.
 
 ### 4. Data Consistency Check
 
